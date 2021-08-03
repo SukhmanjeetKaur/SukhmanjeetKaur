@@ -26,8 +26,10 @@
 <img src="https://img.icons8.com/color-glass/48/000000/sql.png"/>
 <img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
 <img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/color/50/000000/nodejs.png"/>
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </p>
+
 
 
 
