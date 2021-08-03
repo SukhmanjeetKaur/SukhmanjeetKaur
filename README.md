@@ -1,4 +1,5 @@
 ### Hi there 👋
+# I am a Developer, Programmer and a Learner😄
 
 <!--
 **SukhmanjeetKaur/SukhmanjeetKaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
