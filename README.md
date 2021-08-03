@@ -3,6 +3,9 @@
 
 ## I am a Developer, Programmer and a Learner😄
 
+- 🔭 I’m currently working on React Js , React Js Native 
+- 🌱 I’m currently learning Mobile App Development, Data Science, Deep Learning. 
+
 
 
 <!--
