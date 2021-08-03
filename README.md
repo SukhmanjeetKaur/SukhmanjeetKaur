@@ -1,4 +1,8 @@
 ### Hello World, I'm Sukhmanjeet Kaur👋
+
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/SukhmanjeetKaur)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sukhmanjeet-kaur-58325518b/)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:24sukhmanjeet.kaur@gmail.com)
 <img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="400" height="300" />
 
 ## I am a Developer, Programmer and a Learner
