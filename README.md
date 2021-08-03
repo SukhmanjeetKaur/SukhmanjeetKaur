@@ -30,6 +30,7 @@
 <img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
 </p>
 
+<img src="https://github-readme-stats.vercel.app/api?username=sukhmanjeetkaur&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
 
 
 
