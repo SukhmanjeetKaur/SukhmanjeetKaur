@@ -15,6 +15,13 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I love travelling exploring new places, making friends, I speak 3 languages ( English, Hindi and Punjabi) and got A1 certification in French. I love video editing and designing as well. 
 
+#### :computer: Programming languages and tools:
+<p align="left"> 
+ <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
+ <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
+ <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
+ <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
+  </p>
 
 
 
