@@ -17,11 +17,20 @@
 
 #### :computer: Programming languages and tools:
 <p align="left"> 
- <a href="https://www.python.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python.png"/> </a> 
- <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a>
- <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a>
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a> 
-  </p>
+<img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img src="https://img.icons8.com/color/48/000000/html-5--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/css3.png"/>
+<img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
+<img src="https://img.icons8.com/dusk/50/000000/php-logo.png"/>
+<img src="https://img.icons8.com/color-glass/48/000000/sql.png"/>
+<img src="https://img.icons8.com/color/48/000000/linux--v2.png"/>
+<img src="https://img.icons8.com/color/48/000000/react-native.png"/>
+<img src="https://img.icons8.com/ios/50/000000/django.png"/>
+<img src="https://img.icons8.com/color/48/000000/mongodb.png"/>
+</p>
+
+
 
 
 
