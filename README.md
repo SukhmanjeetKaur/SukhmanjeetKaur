@@ -1,6 +1,9 @@
 ### Hello World, I'm Sukhmanjeet Kaur👋
 ## I am a Developer, Programmer and a Learner😄
 
+<img align="right" alt="GIF" src="https://github.com/arsentieva/arsentieva/blob/main/code.gif?raw=true" width="500" height="320" />
+
+
 <!--
 **SukhmanjeetKaur/SukhmanjeetKaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
