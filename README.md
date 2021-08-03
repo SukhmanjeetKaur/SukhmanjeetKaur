@@ -8,23 +8,13 @@
 
 ## I am a Developer, Programmer and a Learner
 
-- 🔭 I’m currently working on Web Applications and Data Science 
-- 🌱 I’m currently learning UI/UX 
-- 
+- 🔭 I’m currently working on Web Applications 
+- 🌱 I’m currently learning UI/UX and Data Science 
+- 👯 I’m looking to collaborate on interesting development projects
+- 💬 Ask me about ... Anything
+- 😄 Pronouns: She/Her
+- ⚡ Fun fact: I love travelling exploring new places, making friends, I speak 3 languages ( English, Hindi and Punjabi) and got A1 certification in French. I love video editing and designing as well. 
 
 
 
-<!--
-**SukhmanjeetKaur/SukhmanjeetKaur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
